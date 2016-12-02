@@ -1,0 +1,21 @@
+<section class="section background-dark">
+          <div class="line line-docspage">
+            <h2 style="color: black;" class="text-size-40 margin-bottom-30">Multi-Bot Setup</h2>
+            <hr class="break-small background-primary margin-bottom-30">
+            <p class="margin-bottom-40">
+</br>1. Create multiple config.json files in bot settings.
+</br>2. It's highly recommended to use a separate API key for each config file (account).
+</br>3. "botTimeoutafter" should NOT be the same on all the config files. Keep the bot timeout 5 minutes apart from each other.
+</br>4. The "guiPortSocket" on each of the bots MUST NOT be the same. (Example- Make it like 8001,8002,8003...etc for each config file)
+</br>5. Fill in your proxy configuration in the config file as follows
+</br>
+</br>     "proxyServer" : "ProxyIP",
+</br>     "proxyPort" : Port,
+</br>     "proxyType" : "HTTP",
+</br>     "proxyUsername" : "username", 
+</br>     "proxyPassword" : "password", 
+</br>
+</br>6. Once you've done all this, start the bot and headover to hydrabot.info and click Start. If multiple bots appear in the UI, you've successfully set up Multi-bots.
+			</p>
+          </div>
+</section>
