@@ -1,0 +1,190 @@
+{
+    "126798441685843970" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "174991160274583552" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "203448222885085185" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "203487838421909514" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "209153320080637952" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "209693332891238400" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "210087958802464768" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "210320881308663808" : {
+        "ENABLED" : true,
+        "ROLE" : "245229208794562570"
+    },
+    "212977806819196938" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "215437768229126144" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "216613223720288256" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "217598923538169858" : {
+        "ENABLED" : false,
+        "ROLE" : "244527432978268170"
+    },
+    "219173391301607425" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "219588914669682688" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "220137505876344832" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "221344309193080833" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "221575173130813440" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "221806029770457089" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "223084177484939265" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "224170984083554304" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "224576814452965376" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "224946732113330177" : {
+        "ENABLED" : true,
+        "ROLE" : "224948580354359297"
+    },
+    "226022030674362369" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "227102083742957578" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "230205814747430913" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "230391068120580099" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "230449903216623616" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "230730472991227904" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "232345655371104256" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "232987057130176512" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "233513549748633601" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "234343646156161034" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "235246586483965952" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "235598299707604992" : {
+        "ENABLED" : true,
+        "ROLE" : "235604934471450624"
+    },
+    "236243721581101059" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "236706075779268609" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "237100737434222595" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "238442928555425796" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "246656748067356673" : {
+        "ENABLED" : true,
+        "ROLE" : "249887174445498368"
+    },
+    "248302942023581696" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "248553005249593346" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "249463709628497921" : {
+        "ENABLED" : true,
+        "ROLE" : "249469738416078848"
+    },
+    "249596280622284801" : {
+        "ENABLED" : true,
+        "ROLE" : "249884002566012928"
+    },
+    "249818968158765056" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "250139447167942668" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "252461037234683904" : {
+        "ENABLED" : false,
+        "ROLE" : null
+    },
+    "252867369263824898" : {
+        "ENABLED" : true,
+        "ROLE" : "253025207273390081"
+    }
+}

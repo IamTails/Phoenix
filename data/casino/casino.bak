@@ -1,0 +1,130 @@
+{
+    "Games" : {
+        "Allin" : {
+            "Cooldown" : 86400,
+            "Max" : 500,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        },
+        "Blackjack" : {
+            "Cooldown" : 0,
+            "Max" : 500,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        },
+        "Coin" : {
+            "Cooldown" : 0,
+            "Max" : 10,
+            "Min" : 10,
+            "Multiplier" : 1.5,
+            "Open" : true
+        },
+        "Cups" : {
+            "Cooldown" : 0,
+            "Max" : 500,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        },
+        "Dice" : {
+            "Cooldown" : 0,
+            "Max" : 500,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        }
+    },
+    "Players" : {
+        "202131498877321217" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Scorn",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "207685721090293760" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 32145,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100000000100,
+            "Membership" : null,
+            "Name" : "Tham",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "209663370763304960" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "johnsmith",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        }
+    },
+    "System Config" : {
+        "Casino Name" : "Mews Game Room",
+        "Casino Open" : true,
+        "Chip Name" : "$$$",
+        "Chip Rate" : 1,
+        "Credit Rate" : 1,
+        "Membership Lvl 0" : "Basic",
+        "Membership Lvl 1" : "Silver",
+        "Membership Lvl 2" : "Gold",
+        "Membership Lvl 3" : "Platnium"
+    }
+}

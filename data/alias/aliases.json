@@ -1,0 +1,135 @@
+{
+    "210087958802464768" : {
+        "bal" : "bank balance",
+        "gary" : "cleverbot",
+        "hp" : "heist play",
+        "iam" : "selfrole",
+        "mew" : "cleverbot",
+        "pd" : "payday",
+        "vol" : "audioset volume",
+        "volume" : "audioset volume"
+    },
+    "212977806819196938" : {
+        "bb" : "bank balance",
+        "bt" : "bank transfer",
+        "c" : "cleverbot",
+        "cb" : "casino balance",
+        "days" : "debug (lambda name, ctx=ctx: \"\\n\".join([\"{0.name}#{0.discriminator} has wasted {1.days} days here.\".format(m, ctx.message.timestamp -m.joined_at) for m in ctx.message.server.members if m.name.startswith(name)]))",
+        "hp" : "heist play",
+        "mew" : "cleverbot",
+        "mewstats" : "stats",
+        "mz" : "mapzen",
+        "pd" : "payday",
+        "q" : "queue",
+        "ssh" : "utils terminal",
+        "yuki" : "debug \"\\n\".join([\"{:>25} {}\".format(x[0], '\u2705' if x[1] else '\u274e') for x in ctx.message.author.server_permissions])",
+        "\ud83d\ude2c\ud83d\udd2b" : "choose \ud83d\ude05\ud83c\udf88\ud83d\udd2b \ud83d\ude05\ud83d\udd05\ud83d\udd2b \ud83d\ude05\ud83c\udf8a\ud83d\udd2b \ud83d\ude05\ud83c\udf89\ud83d\udd2b \ud83d\ude05\u2763\ud83d\udd2b \u2757\ud83d\udca5\u2620\ud83d\udd2b"
+    },
+    "213847887338012672" : {
+        "b" : "boobs",
+        "c" : "cleverbot",
+        "q" : "queue"
+    },
+    "216613223720288256" : {
+        "bb" : "bank balance",
+        "br" : "bank register",
+        "cb" : "casino balance",
+        "cechip" : "casino exchange chips",
+        "cecredit" : "casino exchange credits",
+        "cecredits" : "casino exchange credits",
+        "cj" : "casino join",
+        "purge" : "cleanup messages"
+    },
+    "219173391301607425" : {
+        "q" : "queue",
+        "s" : "skip"
+    },
+    "219588914669682688" : {
+        "bb" : "bank balance",
+        "br" : "bank register",
+        "cb" : "casino balance",
+        "cechips" : "casino exchange chips",
+        "cecredits" : "casino exchange credits",
+        "cj" : "casino join",
+        "q" : "queue",
+        "s" : "skip"
+    },
+    "224170984083554304" : {
+        ".!" : "stop",
+        ".+" : "\".playlist append me\"",
+        ".m" : "\".playlist start me\"",
+        ".q" : "queue",
+        "c" : "cleverbot",
+        "q" : "queue",
+        "us" : "\"playlist start us\""
+    },
+    "224576814452965376" : {
+        "pl" : "playlist",
+        "q" : "queue",
+        "ramm" : "playlist start Rammstein",
+        "robz" : "playlist start RobZombie"
+    },
+    "224946732113330177" : {
+        "bb" : "bank balance",
+        "bt" : "bank transfer",
+        "cb" : "casino balance",
+        "cx" : "casino exchange",
+        "hb" : "heist banks",
+        "hp" : "heist play",
+        "lb" : "leaderboard",
+        "nsfw" : "selfrole nsfw",
+        "pd" : "payday",
+        "q" : "queue",
+        "ssh" : "utils terminal",
+        "tomin" : "utils"
+    },
+    "236706075779268609" : {
+        "nsfw" : "selfrole nsfw",
+        "\ud83d\ude2c\ud83d\udd2b" : "choose \ud83d\ude05\ud83c\udf88\ud83d\udd2b \ud83d\ude05\ud83d\udd05\ud83d\udd2b \ud83d\ude05\ud83c\udf8a\ud83d\udd2b \ud83d\ude05\ud83c\udf89\ud83d\udd2b \ud83d\ude05\u2763\ud83d\udd2b \u2757\ud83d\udca5\u2620\ud83d\udd2b"
+    },
+    "237100737434222595" : {
+        "bb" : "bank balance",
+        "bt" : "bank transfer",
+        "cx" : "casino exchange",
+        "hp" : "heist play",
+        "pd" : "payday",
+        "q" : "queue",
+        "rekt" : "punish",
+        "unrekt" : "unpunish"
+    },
+    "252461037234683904" : {
+        "instinct" : "selfrole lnstinct",
+        "lnstinct" : "selfrole lnstinct",
+        "mystic" : "selfrole Mystic",
+        "valor" : "selfrole valor"
+    },
+    "252867369263824898" : {
+        "bb" : "bank balance",
+        "br" : "bank register",
+        "cb" : "casino balance",
+        "ce" : "casino exchange",
+        "cj" : "casino join",
+        "cl" : "casino leaderboard",
+        "food" : "choose http://www.hormel.com/getattachment/b2135f91-41b3-48df-9b24-158976e009c7/Philly-Cheesesteak-Sandwich.aspx  http://www.saintgermaincatering.com/system/cms/files/files/000/000/134/original/SM0507_philly-cheesesteaks_s4x3.jpg http://burgerjunkies.com/wp-content/uploads/2011/05/IMG_5638.jpg http://52.24.202.75/wp-content/uploads/2014/09/New-York-Style-Cheesecake-with-Fresh-Cherry-Topping-SQ1.jpg http://damgoodcooking.com/wp-content/uploads/2016/04/fab6fd3eb51b9f612168d72fc6d0a7d2.jpg http://twistedpaddy.com/wp-content/uploads/2014/08/20140609-02-1.jpg http://4.bp.blogspot.com/-SZlAh-5F6nU/Uhyg0Mn9BtI/AAAAAAAAPvU/Azt2g2HWjQY/s1600/photo+(3).JPG http://www.healthrefer.com/media/0699/0481/1134/1458265968-s-1.jpg https://az616578.vo.msecnd.net/files/responsive/cover/main/desktop/2016/07/18/636044104859117199985990752_tacos.jpg http://cdn-image.foodandwine.com/sites/default/files/styles/550x550/public/HD-201301-r-thai-tuna-burger.jpg?itok=1xoiWq2P",
+        "fuckingmaster" : "punish <@!188906448229498880> 1 m",
+        "hb" : "heist banks",
+        "hp" : "heist play",
+        "hr" : "heist reset",
+        "iam18" : "selfrole nsfw",
+        "instinct" : "selfrole Team Instinct",
+        "isuck" : "selfrole remove Team Mystic",
+        "lb" : "leaderboard",
+        "mystic" : "selfrole Team Mystic",
+        "newcolor" : "discorole 1 Staff .1",
+        "newcolorm" : "discorole 1 Members .1",
+        "q" : "queue",
+        "rocket" : "selfrole Team Rocket",
+        "s" : "skip",
+        "valor" : "selfrole Team Valor",
+        "\ud83d\udd2b" : "choose \ud83d\ude05\ud83c\udf88\ud83d\udd2b \ud83d\ude05\ud83d\udd05\ud83d\udd2b \ud83d\ude05\ud83c\udf8a\ud83d\udd2b \ud83d\ude05\ud83c\udf89\ud83d\udd2b \ud83d\ude05\u2763\ud83d\udd2b \u2757\ud83d\udca5\u2620\ud83d\udd2b"
+    },
+    "252937171105873920" : {
+        "alliance" : "selfrole add Alliance",
+        "horde" : "selfrole add Horde"
+    }
+}

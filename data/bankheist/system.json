@@ -1,0 +1,526 @@
+{
+    "Servers" : {
+        "210087958802464768" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 2.1,
+                    "Name" : "The Local Bank",
+                    "Success" : 75,
+                    "Vault" : 2002
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 2.0,
+                    "Name" : "fluffybank",
+                    "Success" : 40,
+                    "Vault" : 5010
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 2.0,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 2.5,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 5.0,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 49191,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "212977806819196938" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "The Local Bank",
+                    "Success" : 46,
+                    "Vault" : 2000
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 140271,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "220137505876344832" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "The Local Bank",
+                    "Success" : 46,
+                    "Vault" : 2002
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 253214,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "221806029770457089" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "The Local Bank",
+                    "Success" : 46,
+                    "Vault" : 2000
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 76256,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "224170984083554304" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "Helios",
+                    "Success" : 46,
+                    "Vault" : 2000
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "Darsana",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "Sh\u014dnin",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Persepolis",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Abaddon",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 22693,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "224576814452965376" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "The Local Bank",
+                    "Success" : 46,
+                    "Vault" : 2000
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 0,
+                "Wait Time" : 10
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "224946732113330177" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 0.25,
+                    "Name" : "testy test",
+                    "Success" : 46,
+                    "Vault" : 2002
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 0.31,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 5000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 0.35,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 8000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 12000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 20000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Min Bet" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 148873,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "237100737434222595" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 2000,
+                    "Multiplier" : 1.2,
+                    "Name" : "The Local Bank",
+                    "Success" : 78,
+                    "Vault" : 2002
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 5000,
+                    "Multiplier" : 1.5,
+                    "Name" : "First National Bank",
+                    "Success" : 40,
+                    "Vault" : 150000
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 8000,
+                    "Multiplier" : 2.0,
+                    "Name" : "PNC Bank",
+                    "Success" : 37,
+                    "Vault" : 1150000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 12000,
+                    "Multiplier" : 2.5,
+                    "Name" : "Bank of America",
+                    "Success" : 32,
+                    "Vault" : 11150000
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 20000,
+                    "Multiplier" : 5.0,
+                    "Name" : "Fort Knox",
+                    "Success" : 28,
+                    "Vault" : 11150000
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 0,
+                "Heist Cost" : 0,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 2803,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        },
+        "252867369263824898" : {
+            "Banks" : {
+                "Lvl 1 Bank" : {
+                    "Crew" : 3,
+                    "Max" : 40000,
+                    "Multiplier" : 1.8,
+                    "Name" : "Brandons Piggy Bank",
+                    "Success" : 88,
+                    "Vault" : 21870
+                },
+                "Lvl 2 Bank" : {
+                    "Crew" : 5,
+                    "Max" : 2500000,
+                    "Multiplier" : 0.31,
+                    "Name" : "Kittys Sex Shop",
+                    "Success" : 66,
+                    "Vault" : 7341
+                },
+                "Lvl 3 Bank" : {
+                    "Crew" : 8,
+                    "Max" : 3800000,
+                    "Multiplier" : 0.35,
+                    "Name" : "Asian Supermarket",
+                    "Success" : 50,
+                    "Vault" : 2024000
+                },
+                "Lvl 4 Bank" : {
+                    "Crew" : 10,
+                    "Max" : 8000000,
+                    "Multiplier" : 0.42,
+                    "Name" : "Trumps Safehouse",
+                    "Success" : 43,
+                    "Vault" : 3026500
+                },
+                "Lvl 5 Bank" : {
+                    "Crew" : 15,
+                    "Max" : 5000000000,
+                    "Multiplier" : 0.5,
+                    "Name" : "Bank Of Tom",
+                    "Success" : 33,
+                    "Vault" : 83029940
+                }
+            },
+            "Config" : {
+                "Bank Target" : "",
+                "Bankheist Running" : "No",
+                "Bankheist Started" : "No",
+                "Cooldown" : false,
+                "Default CD" : 1,
+                "Heist Cost" : 500,
+                "Planning Heist" : "No",
+                "Players" : 0,
+                "Time Remaining" : 45590,
+                "Wait Time" : 120
+            },
+            "Heist Winners" : {},
+            "Players" : {}
+        }
+    }
+}

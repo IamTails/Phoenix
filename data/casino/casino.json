@@ -1,0 +1,2158 @@
+{
+    "Games" : {
+        "Allin" : {
+            "Cooldown" : 86400,
+            "Max" : 10000000000000000,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        },
+        "Blackjack" : {
+            "Cooldown" : 10,
+            "Max" : 4000,
+            "Min" : 1,
+            "Multiplier" : 1.0,
+            "Open" : true
+        },
+        "Coin" : {
+            "Cooldown" : 0,
+            "Max" : 500,
+            "Min" : 10,
+            "Multiplier" : 1.2,
+            "Open" : true
+        },
+        "Cups" : {
+            "Cooldown" : 0,
+            "Max" : 500,
+            "Min" : 50,
+            "Multiplier" : 1.2,
+            "Open" : true
+        },
+        "Dice" : {
+            "Cooldown" : 60,
+            "Max" : 1000000,
+            "Min" : 50,
+            "Multiplier" : 2.2,
+            "Open" : true
+        }
+    },
+    "Players" : {
+        "102948450194173952" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 1675451
+            },
+            "Chips" : 170,
+            "Membership" : null,
+            "Name" : "SpartanSavior01",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 3
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 2
+            }
+        },
+        "105395300897705984" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1611975,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 9000000.0,
+            "Membership" : null,
+            "Name" : "Necrid",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 161,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 51,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "114084209919918085" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1723406,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100.0,
+            "Membership" : null,
+            "Name" : "GE GE GE",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "128215279166685186" : {
+            "CD" : {
+                "Allin CD" : 1873085,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0.0,
+            "Membership" : null,
+            "Name" : "\ud835\udce3\ud835\udccc\ud835\udcbe\ud835\udccf\ud835\udcc9\ud835\udc52\ud835\udcb9\ud835\udce4\ud835\udcc3\ud835\udcbe\ud835\udcc6\ud835\udcca\ud835\udc52\u2122",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "157759797117059072" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 145129,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 10012,
+            "Membership" : null,
+            "Name" : "\u12e0\u12a0\u1322\u1308\u1295\u12a4\u138698",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 13,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 3,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "170571485310615553" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 157600,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 11400.0,
+            "Membership" : null,
+            "Name" : "kaller",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 13,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 3,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "172518372863508481" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 242155,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 7008,
+            "Membership" : null,
+            "Name" : "Cov",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 35,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 14,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "173406536096415744" : {
+            "CD" : {
+                "Allin CD" : 1724654,
+                "Blackjack CD" : 1724582,
+                "Coin CD" : 1724676,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "W\u00e0le",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "179998594063925249" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "William",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "193172646169542657" : {
+            "CD" : {
+                "Allin CD" : 1759761,
+                "Blackjack CD" : 13910,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "tech_nx",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 46,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 16,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "193829289102278661" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "phantomtk422",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "196198010747617280" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "\ud83c\udf1a\ud83c\udf39Yatty\ud83c\udf39\ud83c\udf1d",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "202131498877321217" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Scorn",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "202501408493142016" : {
+            "CD" : {
+                "Allin CD" : 1740913,
+                "Blackjack CD" : 0,
+                "Coin CD" : 1653919,
+                "Cups CD" : 1655320,
+                "Dice CD" : 1724477
+            },
+            "Chips" : 0.0,
+            "Membership" : null,
+            "Name" : "Timpa",
+            "Played" : {
+                "Allin Played" : 2,
+                "BJ Played" : 0,
+                "Coin Played" : 1,
+                "Cups Played" : 1,
+                "Dice Played" : 60
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 1,
+                "Cups Won" : 1,
+                "Dice Won" : 25
+            }
+        },
+        "205063301283971072" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 139481,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "xUltiix (IGN)",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "207685721090293760" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 32145,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100000000100,
+            "Membership" : null,
+            "Name" : "Tham",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "207901098575527936" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "UchihaAkito",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "207936513973944322" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 1655667
+            },
+            "Chips" : 50,
+            "Membership" : null,
+            "Name" : "Skrv",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "207938136012095489" : {
+            "CD" : {
+                "Allin CD" : 43110,
+                "Blackjack CD" : 51498,
+                "Coin CD" : 1889444,
+                "Cups CD" : 44705,
+                "Dice CD" : 44674
+            },
+            "Chips" : 370.0,
+            "Membership" : null,
+            "Name" : "ali",
+            "Played" : {
+                "Allin Played" : 2,
+                "BJ Played" : 3,
+                "Coin Played" : 2,
+                "Cups Played" : 2,
+                "Dice Played" : 8
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 2,
+                "Coin Won" : 1,
+                "Cups Won" : 2,
+                "Dice Won" : 2
+            }
+        },
+        "207965789796564993" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 152861,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "dat_koosh",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 3,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "208180221902323713" : {
+            "CD" : {
+                "Allin CD" : 305102,
+                "Blackjack CD" : 134858,
+                "Coin CD" : 305434,
+                "Cups CD" : 305595,
+                "Dice CD" : 305509
+            },
+            "Chips" : 11510000.0,
+            "Membership" : null,
+            "Name" : "gopokeman",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 184,
+                "Coin Played" : 59,
+                "Cups Played" : 2,
+                "Dice Played" : 19
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 57,
+                "Coin Won" : 29,
+                "Cups Won" : 0,
+                "Dice Won" : 6
+            }
+        },
+        "208284146873794571" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 227783,
+                "Coin CD" : 90766,
+                "Cups CD" : 71824,
+                "Dice CD" : 230084
+            },
+            "Chips" : 5e+29,
+            "Membership" : null,
+            "Name" : "crs",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 202,
+                "Coin Played" : 7,
+                "Cups Played" : 0,
+                "Dice Played" : 173
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 71,
+                "Coin Won" : 4,
+                "Cups Won" : 0,
+                "Dice Won" : 53
+            }
+        },
+        "208639802231226368" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 155710,
+                "Coin CD" : 0,
+                "Cups CD" : 205499,
+                "Dice CD" : 0
+            },
+            "Chips" : 101379351.0,
+            "Membership" : null,
+            "Name" : "Kaneki",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 4,
+                "Coin Played" : 0,
+                "Cups Played" : 2,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 1,
+                "Dice Won" : 0
+            }
+        },
+        "208937101310427136" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 238916,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Maco",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "209028281867960320" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 170468,
+                "Coin CD" : 228967,
+                "Cups CD" : 229215,
+                "Dice CD" : 170193
+            },
+            "Chips" : 4.0000000105781517e+30,
+            "Membership" : null,
+            "Name" : "zenith",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 684,
+                "Coin Played" : 15,
+                "Cups Played" : 11,
+                "Dice Played" : 17
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 267,
+                "Coin Won" : 10,
+                "Cups Won" : 2,
+                "Dice Won" : 6
+            }
+        },
+        "209116724774043650" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 696503,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "K11DD3ATH",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "209624860786163712" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 8886,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 8866
+            },
+            "Chips" : 10400.0,
+            "Membership" : null,
+            "Name" : "carbeats",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 7,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 2
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "209670230958407680" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 749234,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "Wo.OdY",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "209676076769607684" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "tszfung",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "209782064260710400" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1936293,
+                "Coin CD" : 0,
+                "Cups CD" : 1675736,
+                "Dice CD" : 1932534
+            },
+            "Chips" : 1.2001658856362607e+19,
+            "Membership" : null,
+            "Name" : "Bromigo",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 2,
+                "Coin Played" : 0,
+                "Cups Played" : 3,
+                "Dice Played" : 24
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 7
+            }
+        },
+        "210155566226604033" : {
+            "CD" : {
+                "Allin CD" : 1759827,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 1761452
+            },
+            "Chips" : 0.0,
+            "Membership" : null,
+            "Name" : "WinnieDeadPooh",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 4
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "210436385373421568" : {
+            "CD" : {
+                "Allin CD" : 1989839,
+                "Blackjack CD" : 219495,
+                "Coin CD" : 2078775,
+                "Cups CD" : 0,
+                "Dice CD" : 219470
+            },
+            "Chips" : 2810.0,
+            "Membership" : null,
+            "Name" : "$\u00f8h\u00e4\u00eel M\u00e3h\u00e4r",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 5,
+                "Coin Played" : 1,
+                "Cups Played" : 0,
+                "Dice Played" : 4
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "210526081239875584" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "cjjp",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "210876351765413898" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 11956,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "LisaWood420",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "211621972046643200" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 838300,
+                "Dice CD" : 0
+            },
+            "Chips" : 50,
+            "Membership" : null,
+            "Name" : "YayaDegSymon",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 1,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "211814488221941762" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 135229,
+                "Coin CD" : 210675,
+                "Cups CD" : 178456,
+                "Dice CD" : 135271
+            },
+            "Chips" : 1.3979007187452981e+21,
+            "Membership" : null,
+            "Name" : "kish",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 27,
+                "Coin Played" : 28,
+                "Cups Played" : 1,
+                "Dice Played" : 30
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 8,
+                "Coin Won" : 15,
+                "Cups Won" : 0,
+                "Dice Won" : 10
+            }
+        },
+        "212452362298589184" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "BrCaK_BA",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "212558971402190848" : {
+            "CD" : {
+                "Allin CD" : 1990012,
+                "Blackjack CD" : 0,
+                "Coin CD" : 2085569,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "[IMMO] \u0645\u0631\u062d\u0628\u0627",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "212980234453123072" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "\u24d8\u24d6\u24dd\u24de\u24e1\u24d4 \u24dc\u24d4",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "213819580861120513" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1628726,
+                "Coin CD" : 211933,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "Furyshot00",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "214807122603540481" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 1703946,
+                "Cups CD" : 1704400,
+                "Dice CD" : 0
+            },
+            "Chips" : 9700.0,
+            "Membership" : null,
+            "Name" : "zeuscraig1",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 1,
+                "Cups Played" : 1,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "215037498018103296" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "zouk",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "215393591088906240" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 225210,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 800.0,
+            "Membership" : null,
+            "Name" : "raisins",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 24,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 13,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "215867960311545856" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1645177,
+                "Coin CD" : 1630784,
+                "Cups CD" : 0,
+                "Dice CD" : 1614166
+            },
+            "Chips" : 8410625333,
+            "Membership" : null,
+            "Name" : "dodo",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1087,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 451,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "215952776201633803" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 1675442
+            },
+            "Chips" : 3000220.0,
+            "Membership" : null,
+            "Name" : "Diego",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "216958140695052288" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 259564,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 999999999999000000000000,
+            "Membership" : null,
+            "Name" : "[M]djurre",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "216988528658219010" : {
+            "CD" : {
+                "Allin CD" : 1796104,
+                "Blackjack CD" : 2830,
+                "Coin CD" : 0,
+                "Cups CD" : 1717962,
+                "Dice CD" : 0
+            },
+            "Chips" : 1000000059857.0,
+            "Membership" : null,
+            "Name" : "tsnork",
+            "Played" : {
+                "Allin Played" : 3,
+                "BJ Played" : 24,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 7,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "217598998301638657" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 516525
+            },
+            "Chips" : 49,
+            "Membership" : null,
+            "Name" : "jamieprostar",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "218077870575058944" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 1663334
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "wesleydm1999",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "218774295810146305" : {
+            "CD" : {
+                "Allin CD" : 1653998,
+                "Blackjack CD" : 0,
+                "Coin CD" : 1655701,
+                "Cups CD" : 0,
+                "Dice CD" : 1663653
+            },
+            "Chips" : 0.0,
+            "Membership" : null,
+            "Name" : "kazuki18",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 0,
+                "Coin Played" : 3,
+                "Cups Played" : 0,
+                "Dice Played" : 24
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 2,
+                "Cups Won" : 0,
+                "Dice Won" : 7
+            }
+        },
+        "219633948555345930" : {
+            "CD" : {
+                "Allin CD" : 1989633,
+                "Blackjack CD" : 48801,
+                "Coin CD" : 0,
+                "Cups CD" : 1724507,
+                "Dice CD" : 1698242
+            },
+            "Chips" : 49950.0,
+            "Membership" : null,
+            "Name" : "Spk345",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 5,
+                "Coin Played" : 0,
+                "Cups Played" : 4,
+                "Dice Played" : 2
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 2,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "220544044059721738" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "samplem",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "220676311075651584" : {
+            "CD" : {
+                "Allin CD" : 2084836,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 1686432,
+                "Dice CD" : 1748963
+            },
+            "Chips" : 0.0,
+            "Membership" : null,
+            "Name" : "4RM4G3DD0N",
+            "Played" : {
+                "Allin Played" : 2,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "220860558872805378" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1009233,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 203775395850.0,
+            "Membership" : null,
+            "Name" : "[zecro]HeAVeN_PH",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 152,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 53,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "221164278990766081" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 219183,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "totoybomba",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "221218404504305664" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 44860,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 225045
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Cryptologism",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "221539107770335232" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 43530
+            },
+            "Chips" : 48,
+            "Membership" : null,
+            "Name" : "supra",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "221850881136656385" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "[M]\u239b\u239dKillerPemPem\u23a0\u239e",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "222112728913805312" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 82600,
+                "Coin CD" : 176712,
+                "Cups CD" : 176728,
+                "Dice CD" : 82591
+            },
+            "Chips" : 1099297889.0,
+            "Membership" : null,
+            "Name" : "AlbatroEiji",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 40,
+                "Coin Played" : 95,
+                "Cups Played" : 15,
+                "Dice Played" : 73
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 11,
+                "Coin Won" : 45,
+                "Cups Won" : 2,
+                "Dice Won" : 21
+            }
+        },
+        "222158279550304259" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 216308,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 240,
+            "Membership" : null,
+            "Name" : "zzz",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 1,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "224902196481884161" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 136072,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 24772
+            },
+            "Chips" : 4999850800.0,
+            "Membership" : null,
+            "Name" : "Classical",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 50,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 32
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 16,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 9
+            }
+        },
+        "225333982529585152" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "lilblacklabrador",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "226401785525305347" : {
+            "CD" : {
+                "Allin CD" : 76219,
+                "Blackjack CD" : 171855,
+                "Coin CD" : 2086196,
+                "Cups CD" : 0,
+                "Dice CD" : 57470
+            },
+            "Chips" : 900.0,
+            "Membership" : null,
+            "Name" : "TiranoR",
+            "Played" : {
+                "Allin Played" : 3,
+                "BJ Played" : 8,
+                "Coin Played" : 4,
+                "Cups Played" : 0,
+                "Dice Played" : 5
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 4,
+                "Coin Won" : 1,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "226518604776996864" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 34623,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 34353
+            },
+            "Chips" : 25200.0,
+            "Membership" : null,
+            "Name" : "nigri",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 15,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 3
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 8,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 2
+            }
+        },
+        "227053265823465472" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Khant Zaw Hein",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "227107749115199488" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 603552
+            },
+            "Chips" : 60,
+            "Membership" : null,
+            "Name" : "valkryie",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 13
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 7
+            }
+        },
+        "227202432575209472" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 49052,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 160751
+            },
+            "Chips" : 1380129.0,
+            "Membership" : null,
+            "Name" : "Samm",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 2,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 36
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 14
+            }
+        },
+        "227543981938966540" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "KemalRomero",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "228187144512864256" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 2085524,
+                "Coin CD" : 2085544,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 44,
+            "Membership" : null,
+            "Name" : "GOTS",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 1,
+                "Coin Played" : 3,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 2,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "229456600547590158" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 28837,
+                "Coin CD" : 28783,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 11986300.0,
+            "Membership" : null,
+            "Name" : "Hugo",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 12,
+                "Coin Played" : 11,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 4,
+                "Coin Won" : 7,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "230005446814072832" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Andriow",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "230008278497755136" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 1628556,
+                "Coin CD" : 1614056,
+                "Cups CD" : 0,
+                "Dice CD" : 1614207
+            },
+            "Chips" : 515355400.0,
+            "Membership" : null,
+            "Name" : "Beep",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 46,
+                "Coin Played" : 1,
+                "Cups Played" : 0,
+                "Dice Played" : 6
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 16,
+                "Coin Won" : 1,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "230443104400834580" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 85559,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 47689
+            },
+            "Chips" : 318630.0,
+            "Membership" : null,
+            "Name" : "gesi",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 9,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 8
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 2,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 2
+            }
+        },
+        "231404168076591104" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 163320,
+                "Coin CD" : 101122,
+                "Cups CD" : 0,
+                "Dice CD" : 102281
+            },
+            "Chips" : 5000268015.0,
+            "Membership" : null,
+            "Name" : "tweet",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 36,
+                "Coin Played" : 5,
+                "Cups Played" : 0,
+                "Dice Played" : 4
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 12,
+                "Coin Won" : 3,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "232506808474796032" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "Pr0tectedV0id",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "233905954498936833" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 37425,
+                "Coin CD" : 0,
+                "Cups CD" : 1710379,
+                "Dice CD" : 1710732
+            },
+            "Chips" : 9340.0,
+            "Membership" : null,
+            "Name" : "Toriban",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 20,
+                "Coin Played" : 0,
+                "Cups Played" : 2,
+                "Dice Played" : 10
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 6,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 5
+            }
+        },
+        "234654770474778624" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 1969360,
+                "Cups CD" : 0,
+                "Dice CD" : 1969393
+            },
+            "Chips" : 10,
+            "Membership" : null,
+            "Name" : "lavie",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 1,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 1
+            }
+        },
+        "235646602935664651" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 0,
+                "Dice CD" : 0
+            },
+            "Chips" : 100,
+            "Membership" : null,
+            "Name" : "crabapple",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "235675099733164032" : {
+            "CD" : {
+                "Allin CD" : 1989747,
+                "Blackjack CD" : 53938,
+                "Coin CD" : 92976,
+                "Cups CD" : 1995059,
+                "Dice CD" : 0
+            },
+            "Chips" : 7316.0,
+            "Membership" : null,
+            "Name" : "WarBird",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 8,
+                "Coin Played" : 46,
+                "Cups Played" : 13,
+                "Dice Played" : 0
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 2,
+                "Coin Won" : 26,
+                "Cups Won" : 2,
+                "Dice Won" : 0
+            }
+        },
+        "235819329575190528" : {
+            "CD" : {
+                "Allin CD" : 0,
+                "Blackjack CD" : 0,
+                "Coin CD" : 2078867,
+                "Cups CD" : 2078930,
+                "Dice CD" : 2078905
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "IneedHelp",
+            "Played" : {
+                "Allin Played" : 0,
+                "BJ Played" : 0,
+                "Coin Played" : 5,
+                "Cups Played" : 1,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 4,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        },
+        "236276618702618624" : {
+            "CD" : {
+                "Allin CD" : 54901,
+                "Blackjack CD" : 0,
+                "Coin CD" : 0,
+                "Cups CD" : 54931,
+                "Dice CD" : 54887
+            },
+            "Chips" : 0,
+            "Membership" : null,
+            "Name" : "TheRealMVP",
+            "Played" : {
+                "Allin Played" : 1,
+                "BJ Played" : 0,
+                "Coin Played" : 0,
+                "Cups Played" : 0,
+                "Dice Played" : 1
+            },
+            "Won" : {
+                "Allin Won" : 0,
+                "BJ Won" : 0,
+                "Coin Won" : 0,
+                "Cups Won" : 0,
+                "Dice Won" : 0
+            }
+        }
+    },
+    "System Config" : {
+        "Casino Name" : "Mews Hall of Games",
+        "Casino Open" : true,
+        "Chip Name" : "Mew",
+        "Chip Rate" : 1.0,
+        "Credit Rate" : 1.0,
+        "Membership Lvl 0" : "500",
+        "Membership Lvl 1" : "conbac",
+        "Membership Lvl 2" : "Gold",
+        "Membership Lvl 3" : "Platnium"
+    }
+}
