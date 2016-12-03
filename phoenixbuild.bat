@@ -1,0 +1,1 @@
+START cmd.exe /k "gradlew build"
