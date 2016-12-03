@@ -1,0 +1,7 @@
+[Credentials]
+Token = 
+
+[Permissions]
+OwnerID =
+[Chat]
+CommandPrefix = !!!
