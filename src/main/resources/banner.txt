@@ -12,7 +12,7 @@
 	 :         :   : :   : :  :   : :: ::   ::    :   :     :   ::
 ================================================================================
 
-        PhoenixBot Build 1.0.0 - 10:06 PM Friday, December 2, 2016 (EST)
+        PhoenixBot Build 1.0.7 - 8:31 AM Monday, December 5, 2016 (EST)
         By the phoenix Developers
 
         http://discord.io/phoenix
